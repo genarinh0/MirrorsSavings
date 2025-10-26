@@ -5,7 +5,7 @@ import { createTransfer } from './NessieService.js';
 import type { SavingsProcessResult } from '../types/nessie.js';
 import CustomerModel, { type ICustomer } from '../models/Customer.js';
 
-const ML_SERVICE_URL = 'http://localhost:8000/predict';
+const ML_SERVICE_URL = 'https://ml-service-hormiga.onrender.com';
 const MOCK_INVESTMENT_ACCOUNT_ID = '68fd2f9b9683f20dd51a476b';
 const DEFAULT_THRESHOLD = 5.00; // Usado solo para el fallback de ML
 
