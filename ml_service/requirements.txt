@@ -1,0 +1,6 @@
+# Contenido de ml_service/requirements.txt
+fastapi           # El framework web para crear la API
+uvicorn           # El servidor para ejecutar FastAPI
+pandas            # Para la manipulación de datos (cargando el CSV, etc.)
+scikit-learn      # La librería que contiene tu modelo (GaussianNB, etc.)
+joblib            # Para cargar/guardar tu modelo y preprocesador (.pkl)

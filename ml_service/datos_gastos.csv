@@ -1,0 +1,853 @@
+precio,categoria,tienda,es_hormiga
+45.50,Cafeteria,Starbucks,1
+850.00,Supermercado,Soriana,0
+32.00,Snacks,Oxxo,1
+1200.00,Gasolina,Pemex,0
+78.00,Comida rapida,McDonald's,1
+2500.00,Renta,Inmobiliaria del Norte,0
+450.00,Servicios,CFE,0
+320.00,Servicios,Telmex,0
+65.00,Cafeteria,Starbucks,1
+1850.00,Supermercado,HEB,0
+42.00,Snacks,7-Eleven,1
+95.00,Comida rapida,Subway,1
+180.00,Restaurante,Sanborns,0
+1100.00,Gasolina,Pemex,0
+38.00,Snacks,Oxxo,1
+2800.00,Farmacia,Benavides,0
+55.00,Cafeteria,Starbucks,1
+125.00,Comida rapida,Burger King,1
+680.00,Ropa,Liverpool,0
+48.00,Snacks,7-Eleven,1
+1650.00,Supermercado,Soriana,0
+72.00,Cafeteria,Cafe Punta del Cielo,1
+280.00,Restaurante,Chili's,0
+1050.00,Gasolina,Shell,0
+35.00,Snacks,Oxxo,1
+150.00,Entretenimiento,Cinemex,0
+88.00,Comida rapida,KFC,1
+420.00,Servicios,Totalplay,0
+52.00,Cafeteria,Starbucks,1
+1950.00,Supermercado,HEB,0
+45.00,Snacks,7-Eleven,1
+165.00,Comida rapida,Domino's Pizza,1
+3200.00,Educacion,Universidad,0
+68.00,Cafeteria,Italian Coffee,1
+1150.00,Gasolina,Pemex,0
+92.00,Comida rapida,Little Caesars,1
+540.00,Farmacia,Guadalajara,0
+38.00,Snacks,Oxxo,1
+1450.00,Supermercado,Soriana,0
+75.00,Cafeteria,Starbucks,1
+220.00,Restaurante,Applebee's,0
+58.00,Snacks,7-Eleven,1
+1080.00,Gasolina,BP,0
+105.00,Comida rapida,Pizza Hut,1
+850.00,Ropa,Zara,0
+42.00,Cafeteria,Cafe Punta del Cielo,1
+1750.00,Supermercado,HEB,0
+65.00,Snacks,Oxxo,1
+320.00,Entretenimiento,Cinepolis,0
+82.00,Comida rapida,Carl's Jr.,1
+2500.00,Renta,Inmobiliaria del Norte,0
+48.00,Cafeteria,Starbucks,1
+1200.00,Gasolina,Pemex,0
+38.00,Snacks,7-Eleven,1
+450.00,Servicios,CFE,0
+95.00,Comida rapida,Subway,1
+1620.00,Supermercado,Soriana,0
+72.00,Cafeteria,Italian Coffee,1
+280.00,Restaurante,Vips,0
+55.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1150.00,Gasolina,Shell,0
+88.00,Comida rapida,Burger King,1
+680.00,Electronica,Best Buy,0
+62.00,Cafeteria,Starbucks,1
+1850.00,Supermercado,HEB,0
+45.00,Snacks,7-Eleven,1
+175.00,Comida rapida,Wings,1
+420.00,Servicios,Totalplay,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1100.00,Gasolina,Pemex,0
+78.00,Comida rapida,McDonald's,1
+2400.00,Farmacia,Benavides,0
+35.00,Snacks,Oxxo,1
+1480.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+240.00,Restaurante,Sanborns,0
+92.00,Comida rapida,KFC,1
+1180.00,Gasolina,BP,0
+48.00,Snacks,7-Eleven,1
+750.00,Ropa,H&M,0
+58.00,Cafeteria,Italian Coffee,1
+1920.00,Supermercado,HEB,0
+65.00,Snacks,Oxxo,1
+150.00,Entretenimiento,Cinemex,0
+105.00,Comida rapida,Little Caesars,1
+2500.00,Renta,Inmobiliaria del Norte,0
+42.00,Cafeteria,Starbucks,1
+1250.00,Gasolina,Pemex,0
+72.00,Comida rapida,Subway,1
+450.00,Servicios,CFE,0
+38.00,Snacks,7-Eleven,1
+1650.00,Supermercado,Soriana,0
+82.00,Cafeteria,Cafe Punta del Cielo,1
+320.00,Restaurante,Chili's,0
+55.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1080.00,Gasolina,Shell,0
+95.00,Comida rapida,Burger King,1
+1200.00,Muebles,Office Depot,0
+48.00,Cafeteria,Starbucks,1
+1780.00,Supermercado,HEB,0
+62.00,Snacks,7-Eleven,1
+185.00,Comida rapida,Domino's Pizza,1
+420.00,Servicios,Totalplay,0
+52.00,Cafeteria,Italian Coffee,1
+1120.00,Gasolina,Pemex,0
+88.00,Comida rapida,Carl's Jr.,1
+680.00,Ropa,Liverpool,0
+45.00,Snacks,Oxxo,1
+1520.00,Supermercado,Soriana,0
+75.00,Cafeteria,Starbucks,1
+260.00,Restaurante,Applebee's,0
+68.00,Snacks,7-Eleven,1
+1190.00,Gasolina,BP,0
+102.00,Comida rapida,Pizza Hut,1
+3200.00,Educacion,Universidad,0
+38.00,Cafeteria,Cafe Punta del Cielo,1
+1850.00,Supermercado,HEB,0
+58.00,Snacks,Oxxo,1
+180.00,Entretenimiento,Cinepolis,0
+92.00,Comida rapida,KFC,1
+2500.00,Renta,Inmobiliaria del Norte,0
+65.00,Cafeteria,Starbucks,1
+1280.00,Gasolina,Pemex,0
+42.00,Snacks,7-Eleven,1
+450.00,Servicios,CFE,0
+78.00,Comida rapida,McDonald's,1
+1680.00,Supermercado,Soriana,0
+52.00,Cafeteria,Italian Coffee,1
+290.00,Restaurante,Vips,0
+48.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1150.00,Gasolina,Shell,0
+105.00,Comida rapida,Subway,1
+850.00,Electronica,RadioShack,0
+72.00,Cafeteria,Starbucks,1
+1920.00,Supermercado,HEB,0
+35.00,Snacks,7-Eleven,1
+165.00,Comida rapida,Wings,1
+420.00,Servicios,Totalplay,0
+55.00,Cafeteria,Cafe Punta del Cielo,1
+1100.00,Gasolina,Pemex,0
+88.00,Comida rapida,Burger King,1
+2600.00,Farmacia,Guadalajara,0
+45.00,Snacks,Oxxo,1
+1550.00,Supermercado,Soriana,0
+62.00,Cafeteria,Starbucks,1
+220.00,Restaurante,Sanborns,0
+95.00,Comida rapida,Little Caesars,1
+1210.00,Gasolina,BP,0
+48.00,Snacks,7-Eleven,1
+720.00,Ropa,Pull&Bear,0
+68.00,Cafeteria,Italian Coffee,1
+1850.00,Supermercado,HEB,0
+58.00,Snacks,Oxxo,1
+170.00,Entretenimiento,Cinemex,0
+82.00,Comida rapida,Carl's Jr.,1
+2500.00,Renta,Inmobiliaria del Norte,0
+52.00,Cafeteria,Starbucks,1
+1320.00,Gasolina,Pemex,0
+65.00,Comida rapida,KFC,1
+450.00,Servicios,CFE,0
+42.00,Snacks,7-Eleven,1
+1720.00,Supermercado,Soriana,0
+75.00,Cafeteria,Cafe Punta del Cielo,1
+310.00,Restaurante,Chili's,0
+38.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1080.00,Gasolina,Shell,0
+92.00,Comida rapida,Subway,1
+950.00,Muebles,Walmart,0
+55.00,Cafeteria,Starbucks,1
+1980.00,Supermercado,HEB,0
+48.00,Snacks,7-Eleven,1
+195.00,Comida rapida,Domino's Pizza,1
+420.00,Servicios,Totalplay,0
+62.00,Cafeteria,Italian Coffee,1
+1150.00,Gasolina,Pemex,0
+105.00,Comida rapida,Pizza Hut,1
+680.00,Ropa,Bershka,0
+45.00,Snacks,Oxxo,1
+1620.00,Supermercado,Soriana,0
+72.00,Cafeteria,Starbucks,1
+270.00,Restaurante,Applebee's,0
+58.00,Snacks,7-Eleven,1
+1180.00,Gasolina,BP,0
+88.00,Comida rapida,Burger King,1
+3200.00,Educacion,Universidad,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1880.00,Supermercado,HEB,0
+68.00,Snacks,Oxxo,1
+160.00,Entretenimiento,Cinepolis,0
+78.00,Comida rapida,McDonald's,1
+2500.00,Renta,Inmobiliaria del Norte,0
+42.00,Cafeteria,Starbucks,1
+1250.00,Gasolina,Pemex,0
+35.00,Snacks,7-Eleven,1
+450.00,Servicios,CFE,0
+95.00,Comida rapida,Little Caesars,1
+1750.00,Supermercado,Soriana,0
+65.00,Cafeteria,Italian Coffee,1
+300.00,Restaurante,Vips,0
+48.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1120.00,Gasolina,Shell,0
+82.00,Comida rapida,Carl's Jr.,1
+1100.00,Electronica,Liverpool,0
+55.00,Cafeteria,Starbucks,1
+1920.00,Supermercado,HEB,0
+62.00,Snacks,7-Eleven,1
+175.00,Comida rapida,Wings,1
+420.00,Servicios,Totalplay,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1190.00,Gasolina,Pemex,0
+92.00,Comida rapida,KFC,1
+2400.00,Farmacia,Benavides,0
+45.00,Snacks,Oxxo,1
+1680.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+230.00,Restaurante,Sanborns,0
+105.00,Comida rapida,Subway,1
+1210.00,Gasolina,BP,0
+38.00,Snacks,7-Eleven,1
+780.00,Ropa,Stradivarius,0
+72.00,Cafeteria,Italian Coffee,1
+1850.00,Supermercado,HEB,0
+58.00,Snacks,Oxxo,1
+180.00,Entretenimiento,Cinemex,0
+88.00,Comida rapida,Burger King,1
+2500.00,Renta,Inmobiliaria del Norte,0
+48.00,Cafeteria,Starbucks,1
+1280.00,Gasolina,Pemex,0
+65.00,Comida rapida,Little Caesars,1
+450.00,Servicios,CFE,0
+42.00,Snacks,7-Eleven,1
+1580.00,Supermercado,Soriana,0
+75.00,Cafeteria,Cafe Punta del Cielo,1
+320.00,Restaurante,Chili's,0
+52.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1150.00,Gasolina,Shell,0
+78.00,Comida rapida,McDonald's,1
+1250.00,Muebles,Office Depot,0
+55.00,Cafeteria,Starbucks,1
+1980.00,Supermercado,HEB,0
+48.00,Snacks,7-Eleven,1
+185.00,Comida rapida,Domino's Pizza,1
+420.00,Servicios,Totalplay,0
+62.00,Cafeteria,Italian Coffee,1
+1120.00,Gasolina,Pemex,0
+95.00,Comida rapida,Pizza Hut,1
+720.00,Ropa,Massimo Dutti,0
+45.00,Snacks,Oxxo,1
+1720.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+280.00,Restaurante,Applebee's,0
+58.00,Snacks,7-Eleven,1
+1240.00,Gasolina,BP,0
+82.00,Comida rapida,Carl's Jr.,1
+3200.00,Educacion,Universidad,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1850.00,Supermercado,HEB,0
+72.00,Snacks,Oxxo,1
+150.00,Entretenimiento,Cinepolis,0
+92.00,Comida rapida,KFC,1
+2500.00,Renta,Inmobiliaria del Norte,0
+42.00,Cafeteria,Starbucks,1
+1310.00,Gasolina,Pemex,0
+35.00,Snacks,7-Eleven,1
+450.00,Servicios,CFE,0
+105.00,Comida rapida,Subway,1
+1650.00,Supermercado,Soriana,0
+65.00,Cafeteria,Italian Coffee,1
+310.00,Restaurante,Vips,0
+48.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1080.00,Gasolina,Shell,0
+88.00,Comida rapida,Burger King,1
+950.00,Electronica,Best Buy,0
+55.00,Cafeteria,Starbucks,1
+1920.00,Supermercado,HEB,0
+62.00,Snacks,7-Eleven,1
+165.00,Comida rapida,Wings,1
+420.00,Servicios,Totalplay,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1150.00,Gasolina,Pemex,0
+78.00,Comida rapida,Little Caesars,1
+2600.00,Farmacia,Guadalajara,0
+45.00,Snacks,Oxxo,1
+1780.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+240.00,Restaurante,Sanborns,0
+95.00,Comida rapida,McDonald's,1
+1210.00,Gasolina,BP,0
+38.00,Snacks,7-Eleven,1
+850.00,Ropa,Zara,0
+72.00,Cafeteria,Italian Coffee,1
+1850.00,Supermercado,HEB,0
+58.00,Snacks,Oxxo,1
+170.00,Entretenimiento,Cinemex,0
+82.00,Comida rapida,Carl's Jr.,1
+2500.00,Renta,Inmobiliaria del Norte,0
+48.00,Cafeteria,Starbucks,1
+1280.00,Gasolina,Pemex,0
+65.00,Comida rapida,KFC,1
+450.00,Servicios,CFE,0
+42.00,Snacks,7-Eleven,1
+1620.00,Supermercado,Soriana,0
+75.00,Cafeteria,Cafe Punta del Cielo,1
+330.00,Restaurante,Chili's,0
+52.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1120.00,Gasolina,Shell,0
+92.00,Comida rapida,Subway,1
+1150.00,Muebles,Walmart,0
+55.00,Cafeteria,Starbucks,1
+1980.00,Supermercado,HEB,0
+48.00,Snacks,7-Eleven,1
+195.00,Comida rapida,Domino's Pizza,1
+420.00,Servicios,Totalplay,0
+62.00,Cafeteria,Italian Coffee,1
+1190.00,Gasolina,Pemex,0
+105.00,Comida rapida,Pizza Hut,1
+680.00,Ropa,Pull&Bear,0
+45.00,Snacks,Oxxo,1
+1720.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+290.00,Restaurante,Applebee's,0
+58.00,Snacks,7-Eleven,1
+1180.00,Gasolina,BP,0
+88.00,Comida rapida,Burger King,1
+3200.00,Educacion,Universidad,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1880.00,Supermercado,HEB,0
+72.00,Snacks,Oxxo,1
+160.00,Entretenimiento,Cinepolis,0
+78.00,Comida rapida,Little Caesars,1
+2500.00,Renta,Inmobiliaria del Norte,0
+42.00,Cafeteria,Starbucks,1
+1250.00,Gasolina,Pemex,0
+35.00,Snacks,7-Eleven,1
+450.00,Servicios,CFE,0
+95.00,Comida rapida,McDonald's,1
+1650.00,Supermercado,Soriana,0
+65.00,Cafeteria,Italian Coffee,1
+310.00,Restaurante,Vips,0
+48.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1080.00,Gasolina,Shell,0
+82.00,Comida rapida,Carl's Jr.,1
+1200.00,Electronica,RadioShack,0
+55.00,Cafeteria,Starbucks,1
+1920.00,Supermercado,HEB,0
+62.00,Snacks,7-Eleven,1
+175.00,Comida rapida,Wings,1
+420.00,Servicios,Totalplay,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1150.00,Gasolina,Pemex,0
+92.00,Comida rapida,KFC,1
+2400.00,Farmacia,Benavides,0
+45.00,Snacks,Oxxo,1
+1780.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+250.00,Restaurante,Sanborns,0
+105.00,Comida rapida,Subway,1
+1210.00,Gasolina,BP,0
+38.00,Snacks,7-Eleven,1
+750.00,Ropa,Bershka,0
+72.00,Cafeteria,Italian Coffee,1
+1850.00,Supermercado,HEB,0
+58.00,Snacks,Oxxo,1
+180.00,Entretenimiento,Cinemex,0
+88.00,Comida rapida,Burger King,1
+2500.00,Renta,Inmobiliaria del Norte,0
+48.00,Cafeteria,Starbucks,1
+1280.00,Gasolina,Pemex,0
+65.00,Comida rapida,Little Caesars,1
+450.00,Servicios,CFE,0
+42.00,Snacks,7-Eleven,1
+1680.00,Supermercado,Soriana,0
+75.00,Cafeteria,Cafe Punta del Cielo,1
+320.00,Restaurante,Chili's,0
+52.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1120.00,Gasolina,Shell,0
+78.00,Comida rapida,McDonald's,1
+1050.00,Muebles,Office Depot,0
+55.00,Cafeteria,Starbucks,1
+1980.00,Supermercado,HEB,0
+48.00,Snacks,7-Eleven,1
+185.00,Comida rapida,Domino's Pizza,1
+420.00,Servicios,Totalplay,0
+62.00,Cafeteria,Italian Coffee,1
+1190.00,Gasolina,Pemex,0
+95.00,Comida rapida,Pizza Hut,1
+820.00,Ropa,H&M,0
+45.00,Snacks,Oxxo,1
+1720.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+300.00,Restaurante,Applebee's,0
+58.00,Snacks,7-Eleven,1
+1180.00,Gasolina,BP,0
+82.00,Comida rapida,Carl's Jr.,1
+3200.00,Educacion,Universidad,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1850.00,Supermercado,HEB,0
+72.00,Snacks,Oxxo,1
+150.00,Entretenimiento,Cinepolis,0
+92.00,Comida rapida,KFC,1
+2500.00,Renta,Inmobiliaria del Norte,0
+42.00,Cafeteria,Starbucks,1
+1310.00,Gasolina,Pemex,0
+35.00,Snacks,7-Eleven,1
+450.00,Servicios,CFE,0
+105.00,Comida rapida,Subway,1
+1650.00,Supermercado,Soriana,0
+65.00,Cafeteria,Italian Coffee,1
+320.00,Restaurante,Vips,0
+48.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1080.00,Gasolina,Shell,0
+88.00,Comida rapida,Burger King,1
+980.00,Electronica,Best Buy,0
+55.00,Cafeteria,Starbucks,1
+1920.00,Supermercado,HEB,0
+62.00,Snacks,7-Eleven,1
+165.00,Comida rapida,Wings,1
+420.00,Servicios,Totalplay,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1150.00,Gasolina,Pemex,0
+78.00,Comida rapida,Little Caesars,1
+2600.00,Farmacia,Guadalajara,0
+45.00,Snacks,Oxxo,1
+1780.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+260.00,Restaurante,Sanborns,0
+95.00,Comida rapida,McDonald's,1
+1210.00,Gasolina,BP,0
+38.00,Snacks,7-Eleven,1
+720.00,Ropa,Stradivarius,0
+72.00,Cafeteria,Italian Coffee,1
+1850.00,Supermercado,HEB,0
+58.00,Snacks,Oxxo,1
+170.00,Entretenimiento,Cinemex,0
+82.00,Comida rapida,Carl's Jr.,1
+2500.00,Renta,Inmobiliaria del Norte,0
+48.00,Cafeteria,Starbucks,1
+1280.00,Gasolina,Pemex,0
+65.00,Comida rapida,KFC,1
+450.00,Servicios,CFE,0
+42.00,Snacks,7-Eleven,1
+1620.00,Supermercado,Soriana,0
+75.00,Cafeteria,Cafe Punta del Cielo,1
+340.00,Restaurante,Chili's,0
+52.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1120.00,Gasolina,Shell,0
+92.00,Comida rapida,Subway,1
+1100.00,Muebles,Walmart,0
+55.00,Cafeteria,Starbucks,1
+1980.00,Supermercado,HEB,0
+48.00,Snacks,7-Eleven,1
+195.00,Comida rapida,Domino's Pizza,1
+420.00,Servicios,Totalplay,0
+62.00,Cafeteria,Italian Coffee,1
+1190.00,Gasolina,Pemex,0
+105.00,Comida rapida,Pizza Hut,1
+680.00,Ropa,Pull&Bear,0
+45.00,Snacks,Oxxo,1
+1720.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+280.00,Restaurante,Applebee's,0
+58.00,Snacks,7-Eleven,1
+1180.00,Gasolina,BP,0
+88.00,Comida rapida,Burger King,1
+3200.00,Educacion,Universidad,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1880.00,Supermercado,HEB,0
+72.00,Snacks,Oxxo,1
+160.00,Entretenimiento,Cinepolis,0
+78.00,Comida rapida,Little Caesars,1
+2500.00,Renta,Inmobiliaria del Norte,0
+42.00,Cafeteria,Starbucks,1
+1250.00,Gasolina,Pemex,0
+35.00,Snacks,7-Eleven,1
+450.00,Servicios,CFE,0
+95.00,Comida rapida,McDonald's,1
+1650.00,Supermercado,Soriana,0
+65.00,Cafeteria,Italian Coffee,1
+310.00,Restaurante,Vips,0
+48.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1080.00,Gasolina,Shell,0
+82.00,Comida rapida,Carl's Jr.,1
+1150.00,Electronica,Liverpool,0
+55.00,Cafeteria,Starbucks,1
+1920.00,Supermercado,HEB,0
+62.00,Snacks,7-Eleven,1
+175.00,Comida rapida,Wings,1
+420.00,Servicios,Totalplay,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1150.00,Gasolina,Pemex,0
+92.00,Comida rapida,KFC,1
+2400.00,Farmacia,Benavides,0
+45.00,Snacks,Oxxo,1
+1780.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+240.00,Restaurante,Sanborns,0
+105.00,Comida rapida,Subway,1
+1210.00,Gasolina,BP,0
+38.00,Snacks,7-Eleven,1
+780.00,Ropa,Massimo Dutti,0
+72.00,Cafeteria,Italian Coffee,1
+1850.00,Supermercado,HEB,0
+58.00,Snacks,Oxxo,1
+180.00,Entretenimiento,Cinemex,0
+88.00,Comida rapida,Burger King,1
+2500.00,Renta,Inmobiliaria del Norte,0
+48.00,Cafeteria,Starbucks,1
+1280.00,Gasolina,Pemex,0
+65.00,Comida rapida,Little Caesars,1
+450.00,Servicios,CFE,0
+42.00,Snacks,7-Eleven,1
+1680.00,Supermercado,Soriana,0
+75.00,Cafeteria,Cafe Punta del Cielo,1
+320.00,Restaurante,Chili's,0
+52.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1120.00,Gasolina,Shell,0
+78.00,Comida rapida,McDonald's,1
+1250.00,Muebles,Office Depot,0
+55.00,Cafeteria,Starbucks,1
+1980.00,Supermercado,HEB,0
+48.00,Snacks,7-Eleven,1
+185.00,Comida rapida,Domino's Pizza,1
+420.00,Servicios,Totalplay,0
+62.00,Cafeteria,Italian Coffee,1
+1190.00,Gasolina,Pemex,0
+95.00,Comida rapida,Pizza Hut,1
+850.00,Ropa,Zara,0
+45.00,Snacks,Oxxo,1
+1720.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+290.00,Restaurante,Applebee's,0
+58.00,Snacks,7-Eleven,1
+1180.00,Gasolina,BP,0
+82.00,Comida rapida,Carl's Jr.,1
+3200.00,Educacion,Universidad,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1850.00,Supermercado,HEB,0
+72.00,Snacks,Oxxo,1
+150.00,Entretenimiento,Cinepolis,0
+92.00,Comida rapida,KFC,1
+2500.00,Renta,Inmobiliaria del Norte,0
+42.00,Cafeteria,Starbucks,1
+1310.00,Gasolina,Pemex,0
+35.00,Snacks,7-Eleven,1
+450.00,Servicios,CFE,0
+105.00,Comida rapida,Subway,1
+1650.00,Supermercado,Soriana,0
+65.00,Cafeteria,Italian Coffee,1
+330.00,Restaurante,Vips,0
+48.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1080.00,Gasolina,Shell,0
+88.00,Comida rapida,Burger King,1
+920.00,Electronica,Best Buy,0
+55.00,Cafeteria,Starbucks,1
+1920.00,Supermercado,HEB,0
+62.00,Snacks,7-Eleven,1
+165.00,Comida rapida,Wings,1
+420.00,Servicios,Totalplay,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1150.00,Gasolina,Pemex,0
+78.00,Comida rapida,Little Caesars,1
+2600.00,Farmacia,Guadalajara,0
+45.00,Snacks,Oxxo,1
+1780.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+250.00,Restaurante,Sanborns,0
+95.00,Comida rapida,McDonald's,1
+1210.00,Gasolina,BP,0
+38.00,Snacks,7-Eleven,1
+750.00,Ropa,Bershka,0
+72.00,Cafeteria,Italian Coffee,1
+1850.00,Supermercado,HEB,0
+58.00,Snacks,Oxxo,1
+170.00,Entretenimiento,Cinemex,0
+82.00,Comida rapida,Carl's Jr.,1
+2500.00,Renta,Inmobiliaria del Norte,0
+48.00,Cafeteria,Starbucks,1
+1280.00,Gasolina,Pemex,0
+65.00,Comida rapida,KFC,1
+450.00,Servicios,CFE,0
+42.00,Snacks,7-Eleven,1
+1620.00,Supermercado,Soriana,0
+75.00,Cafeteria,Cafe Punta del Cielo,1
+320.00,Restaurante,Chili's,0
+52.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1120.00,Gasolina,Shell,0
+92.00,Comida rapida,Subway,1
+1050.00,Muebles,Walmart,0
+55.00,Cafeteria,Starbucks,1
+1980.00,Supermercado,HEB,0
+48.00,Snacks,7-Eleven,1
+195.00,Comida rapida,Domino's Pizza,1
+420.00,Servicios,Totalplay,0
+62.00,Cafeteria,Italian Coffee,1
+1190.00,Gasolina,Pemex,0
+105.00,Comida rapida,Pizza Hut,1
+680.00,Ropa,H&M,0
+45.00,Snacks,Oxxo,1
+1720.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+300.00,Restaurante,Applebee's,0
+58.00,Snacks,7-Eleven,1
+1180.00,Gasolina,BP,0
+88.00,Comida rapida,Burger King,1
+3200.00,Educacion,Universidad,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1850.00,Supermercado,HEB,0
+72.00,Snacks,Oxxo,1
+160.00,Entretenimiento,Cinepolis,0
+78.00,Comida rapida,Little Caesars,1
+2500.00,Renta,Inmobiliaria del Norte,0
+42.00,Cafeteria,Starbucks,1
+1250.00,Gasolina,Pemex,0
+35.00,Snacks,7-Eleven,1
+450.00,Servicios,CFE,0
+95.00,Comida rapida,McDonald's,1
+1650.00,Supermercado,Soriana,0
+65.00,Cafeteria,Italian Coffee,1
+310.00,Restaurante,Vips,0
+48.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1080.00,Gasolina,Shell,0
+82.00,Comida rapida,Carl's Jr.,1
+1200.00,Electronica,RadioShack,0
+55.00,Cafeteria,Starbucks,1
+1920.00,Supermercado,HEB,0
+62.00,Snacks,7-Eleven,1
+175.00,Comida rapida,Wings,1
+420.00,Servicios,Totalplay,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1150.00,Gasolina,Pemex,0
+92.00,Comida rapida,KFC,1
+2400.00,Farmacia,Benavides,0
+45.00,Snacks,Oxxo,1
+1780.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+240.00,Restaurante,Sanborns,0
+105.00,Comida rapida,Subway,1
+1210.00,Gasolina,BP,0
+38.00,Snacks,7-Eleven,1
+820.00,Ropa,Stradivarius,0
+72.00,Cafeteria,Italian Coffee,1
+1850.00,Supermercado,HEB,0
+58.00,Snacks,Oxxo,1
+180.00,Entretenimiento,Cinemex,0
+88.00,Comida rapida,Burger King,1
+2500.00,Renta,Inmobiliaria del Norte,0
+48.00,Cafeteria,Starbucks,1
+1280.00,Gasolina,Pemex,0
+65.00,Comida rapida,Little Caesars,1
+450.00,Servicios,CFE,0
+42.00,Snacks,7-Eleven,1
+1680.00,Supermercado,Soriana,0
+75.00,Cafeteria,Cafe Punta del Cielo,1
+340.00,Restaurante,Chili's,0
+52.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1120.00,Gasolina,Shell,0
+78.00,Comida rapida,McDonald's,1
+1100.00,Muebles,Office Depot,0
+55.00,Cafeteria,Starbucks,1
+1980.00,Supermercado,HEB,0
+48.00,Snacks,7-Eleven,1
+185.00,Comida rapida,Domino's Pizza,1
+420.00,Servicios,Totalplay,0
+62.00,Cafeteria,Italian Coffee,1
+1190.00,Gasolina,Pemex,0
+95.00,Comida rapida,Pizza Hut,1
+720.00,Ropa,Pull&Bear,0
+45.00,Snacks,Oxxo,1
+1720.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+290.00,Restaurante,Applebee's,0
+58.00,Snacks,7-Eleven,1
+1180.00,Gasolina,BP,0
+82.00,Comida rapida,Carl's Jr.,1
+3200.00,Educacion,Universidad,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1880.00,Supermercado,HEB,0
+72.00,Snacks,Oxxo,1
+150.00,Entretenimiento,Cinepolis,0
+92.00,Comida rapida,KFC,1
+2500.00,Renta,Inmobiliaria del Norte,0
+42.00,Cafeteria,Starbucks,1
+1310.00,Gasolina,Pemex,0
+35.00,Snacks,7-Eleven,1
+450.00,Servicios,CFE,0
+105.00,Comida rapida,Subway,1
+1650.00,Supermercado,Soriana,0
+65.00,Cafeteria,Italian Coffee,1
+320.00,Restaurante,Vips,0
+48.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1080.00,Gasolina,Shell,0
+88.00,Comida rapida,Burger King,1
+980.00,Electronica,Best Buy,0
+55.00,Cafeteria,Starbucks,1
+1920.00,Supermercado,HEB,0
+62.00,Snacks,7-Eleven,1
+165.00,Comida rapida,Wings,1
+420.00,Servicios,Totalplay,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1150.00,Gasolina,Pemex,0
+78.00,Comida rapida,Little Caesars,1
+2600.00,Farmacia,Guadalajara,0
+45.00,Snacks,Oxxo,1
+1780.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+260.00,Restaurante,Sanborns,0
+95.00,Comida rapida,McDonald's,1
+1210.00,Gasolina,BP,0
+38.00,Snacks,7-Eleven,1
+750.00,Ropa,Massimo Dutti,0
+72.00,Cafeteria,Italian Coffee,1
+1850.00,Supermercado,HEB,0
+58.00,Snacks,Oxxo,1
+170.00,Entretenimiento,Cinemex,0
+82.00,Comida rapida,Carl's Jr.,1
+2500.00,Renta,Inmobiliaria del Norte,0
+48.00,Cafeteria,Starbucks,1
+1280.00,Gasolina,Pemex,0
+65.00,Comida rapida,KFC,1
+450.00,Servicios,CFE,0
+42.00,Snacks,7-Eleven,1
+1620.00,Supermercado,Soriana,0
+75.00,Cafeteria,Cafe Punta del Cielo,1
+330.00,Restaurante,Chili's,0
+52.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1120.00,Gasolina,Shell,0
+92.00,Comida rapida,Subway,1
+1150.00,Muebles,Walmart,0
+55.00,Cafeteria,Starbucks,1
+1980.00,Supermercado,HEB,0
+48.00,Snacks,7-Eleven,1
+195.00,Comida rapida,Domino's Pizza,1
+420.00,Servicios,Totalplay,0
+62.00,Cafeteria,Italian Coffee,1
+1190.00,Gasolina,Pemex,0
+105.00,Comida rapida,Pizza Hut,1
+680.00,Ropa,Zara,0
+45.00,Snacks,Oxxo,1
+1720.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+280.00,Restaurante,Applebee's,0
+58.00,Snacks,7-Eleven,1
+1180.00,Gasolina,BP,0
+88.00,Comida rapida,Burger King,1
+3200.00,Educacion,Universidad,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1850.00,Supermercado,HEB,0
+72.00,Snacks,Oxxo,1
+160.00,Entretenimiento,Cinepolis,0
+78.00,Comida rapida,Little Caesars,1
+2500.00,Renta,Inmobiliaria del Norte,0
+42.00,Cafeteria,Starbucks,1
+1250.00,Gasolina,Pemex,0
+35.00,Snacks,7-Eleven,1
+450.00,Servicios,CFE,0
+95.00,Comida rapida,McDonald's,1
+1650.00,Supermercado,Soriana,0
+65.00,Cafeteria,Italian Coffee,1
+310.00,Restaurante,Vips,0
+48.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1080.00,Gasolina,Shell,0
+82.00,Comida rapida,Carl's Jr.,1
+1100.00,Electronica,Liverpool,0
+55.00,Cafeteria,Starbucks,1
+1920.00,Supermercado,HEB,0
+62.00,Snacks,7-Eleven,1
+175.00,Comida rapida,Wings,1
+420.00,Servicios,Totalplay,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1150.00,Gasolina,Pemex,0
+92.00,Comida rapida,KFC,1
+2400.00,Farmacia,Benavides,0
+45.00,Snacks,Oxxo,1
+1780.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+240.00,Restaurante,Sanborns,0
+105.00,Comida rapida,Subway,1
+1210.00,Gasolina,BP,0
+38.00,Snacks,7-Eleven,1
+780.00,Ropa,Bershka,0
+72.00,Cafeteria,Italian Coffee,1
+1850.00,Supermercado,HEB,0
+58.00,Snacks,Oxxo,1
+180.00,Entretenimiento,Cinemex,0
+88.00,Comida rapida,Burger King,1
+2500.00,Renta,Inmobiliaria del Norte,0
+48.00,Cafeteria,Starbucks,1
+1280.00,Gasolina,Pemex,0
+65.00,Comida rapida,Little Caesars,1
+450.00,Servicios,CFE,0
+42.00,Snacks,7-Eleven,1
+1680.00,Supermercado,Soriana,0
+75.00,Cafeteria,Cafe Punta del Cielo,1
+320.00,Restaurante,Chili's,0
+52.00,Snacks,Oxxo,1
+320.00,Servicios,Telmex,0
+1120.00,Gasolina,Shell,0
+78.00,Comida rapida,McDonald's,1
+1250.00,Muebles,Office Depot,0
+55.00,Cafeteria,Starbucks,1
+1980.00,Supermercado,HEB,0
+48.00,Snacks,7-Eleven,1
+185.00,Comida rapida,Domino's Pizza,1
+420.00,Servicios,Totalplay,0
+62.00,Cafeteria,Italian Coffee,1
+1190.00,Gasolina,Pemex,0
+95.00,Comida rapida,Pizza Hut,1
+850.00,Ropa,H&M,0
+45.00,Snacks,Oxxo,1
+1720.00,Supermercado,Soriana,0
+68.00,Cafeteria,Starbucks,1
+290.00,Restaurante,Applebee's,0
+58.00,Snacks,7-Eleven,1
+1180.00,Gasolina,BP,0
+82.00,Comida rapida,Carl's Jr.,1
+3200.00,Educacion,Universidad,0
+52.00,Cafeteria,Cafe Punta del Cielo,1
+1880.00,Supermercado,HEB,0
+72.00,Snacks,Oxxo,1
+150.00,Entretenimiento,Cinepolis,0
+92.00,Comida rapida,KFC,1
+2500.00,Renta,Inmobiliaria del Norte,0
+42.00,Cafeteria,Starbucks,1
+1310.00,Gasolina,Pemex,0
+35.00,Snacks,7-Eleven,1
+450.00,Servicios,CFE,0
+105.00,Comida rapida,Subway,1
+1650.00,Supermercado,Soriana,0
+65.00,Cafeteria,Italian Coffee,1
+330.00,Restaurante,Vips,0
+48.00,Snacks,Oxxo,1

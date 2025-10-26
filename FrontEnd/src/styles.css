@@ -1,0 +1,401 @@
+/* -------------------------------------------------------------
+  BASE Y UTILIDADES
+--------------------------------------------------------------- */
+body {
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    margin: 0;
+    background-color: #f4f6f9; /* Fondo gris claro suave */
+    color: #333;
+    /* Fija el tamaño base para el móvil */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4 {
+    color: #1a1a1a;
+    margin-top: 0;
+}
+
+/* -------------------------------------------------------------
+  HEADER (Encabezado Fijo)
+--------------------------------------------------------------- */
+.app-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e0e0e0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+
+.app-header button {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #007bff; /* Azul primario */
+    padding: 0; /* Limpieza de padding */
+}
+
+.app-header h2 {
+    font-weight: 600;
+    margin: 0;
+}
+
+.app-header label {
+    font-size: 0.9rem;
+    color: #666;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.app-header input[type="checkbox"] {
+    margin-left: 8px;
+    width: 24px; /* Mayor target táctil */
+    height: 24px;
+    cursor: pointer;
+    accent-color: #28a745; /* Color de acento verde */
+}
+
+
+/* -------------------------------------------------------------
+  DASHBOARD Y BOTONES PRINCIPALES
+--------------------------------------------------------------- */
+
+.main-content-centered {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    min-height: calc(100vh - 60px);
+}
+
+/* Tarjeta de Saldo Persistente */
+.card-estado-cuentas {
+    width: 100%;
+    max-width: 400px;
+    background: #ffffff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
+    text-align: left;
+}
+
+.card-estado-cuentas h4 {
+    font-size: 1.25rem;
+    border-bottom: 1px solid #f0f0f0;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+
+.card-estado-cuentas strong {
+    display: block;
+    font-size: 1.8rem;
+    font-weight: 700;
+    margin-top: 2px;
+    margin-bottom: 15px;
+}
+
+/* Estilo para el botón principal (mayor target táctil) */
+.boton-grande-principal {
+    background-color: #007bff;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 18px 35px; /* Más padding para touch */
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-top: 40px;
+    transition: all 0.3s ease;
+    width: 90%;
+    max-width: 350px;
+}
+
+.boton-grande-principal:hover:not(:disabled) {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+.boton-grande-principal:disabled {
+    background-color: #aaa;
+    box-shadow: none;
+    cursor: not-allowed;
+}
+
+
+/* -------------------------------------------------------------
+  SIDEMENU (Menú Lateral)
+--------------------------------------------------------------- */
+.sidemenu-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 20;
+    transition: opacity 0.3s ease;
+}
+
+.sidemenu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 80%; /* Más responsivo */
+    max-width: 300px;
+    height: 100%;
+    background: white;
+    padding: 25px;
+    box-shadow: 4px 0 15px rgba(0, 0, 0, 0.2);
+    z-index: 30;
+}
+
+.sidemenu-close-btn {
+    top: 20px;
+    right: 15px;
+    background: none;
+    border: none;
+    font-size: 1.2rem;
+    cursor: pointer;
+    color: #666;
+}
+
+.sidemenu h3 {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: #007bff;
+}
+
+.sidemenu h4 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #1a1a1a;
+}
+
+/* Estilo para el botón de Historial */
+.sidemenu button {
+    margin-top: 10px;
+    padding: 8px;
+    background-color: #e6f2ff;
+    color: #007bff;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    width: 100%;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.sidemenu button:hover {
+    background-color: #cce0ff;
+}
+
+/* -------------------------------------------------------------
+  MODAL (AddGastoModal)
+--------------------------------------------------------------- */
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 40;
+}
+
+.modal-content {
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+    width: 90%; /* Ocupa más espacio en móvil */
+    max-width: 450px;
+    position: relative;
+    animation: fadeIn 0.3s ease-out;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.4rem;
+    font-weight: 600;
+    color: #444;
+}
+
+.monto-input-wrapper {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+.monto-input-wrapper span {
+    padding: 12px;
+    background-color: #e9ecef;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    font-weight: 600;
+    color: #555;
+}
+
+.monto-input-wrapper input,
+.form-group select,
+.form-group input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    background-color: transparent;
+    font-size: 1rem;
+    border-radius: 8px;
+    box-sizing: border-box;
+}
+
+.form-group select {
+    appearance: none;
+    background-image: url("data:image/svg+xml;charset=US-ASCII,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22292.4%22%20height%3D%22292.4%22%3E%3Cpath%20fill%3D%22%23007bff%22%20d%3D%22M287%2069.4a17.6%2017.6%200%200%200-24.8%200L146.2%20185.6%2030.3%2069.4a17.6%2017.6%200%200%200-25%2024.8l130.5%20130.6c7.4%207.4%2017.2%2011.2%2027.1%2011.2%209.9%200%2019.6-3.8%2027-11.2l130.5-130.6c7.4-7.4%207.4-19.5-.1-26.9z%22%2F%3E%3C%2Fsvg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px top 50%;
+    background-size: 12px;
+}
+
+.boton-guardar {
+    width: 100%;
+    background-color: #28a745;
+    color: white;
+    padding: 15px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: background-color 0.2s;
+}
+
+.boton-guardar:hover {
+    background-color: #1e7e34;
+}
+
+/* Estilos de Animación de Estado */
+.animation-container {
+    text-align: center;
+    padding: 3rem 0;
+}
+
+.loader {
+    border: 5px solid #f3f3f3;
+    border-top: 5px solid #007bff;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    animation: spin 1s linear infinite;
+    margin: 0 auto;
+}
+
+.status-icon {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto 15px;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: white;
+}
+
+.icon-success { background-color: #28a745; }
+.icon-normal { background-color: #17a2b8; }
+.icon-parcial { background-color: #ffc107; }
+.icon-error { background-color: #dc3545; }
+
+
+/* -------------------------------------------------------------
+  HISTORIAL DE TRANSACCIONES
+--------------------------------------------------------------- */
+.history-container {
+    padding: 10px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.back-button {
+    background: none;
+    border: none;
+    color: #007bff;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-bottom: 20px;
+    display: block;
+}
+
+.history-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0 8px;
+    margin-top: 20px;
+    font-size: 0.9rem;
+}
+
+.history-table th, .history-table td {
+    padding: 10px;
+    text-align: left;
+    white-space: nowrap;
+}
+
+.history-table th {
+    background-color: #e9ecef;
+    font-size: 0.8rem;
+    color: #495057;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.history-table tbody tr {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+    transition: transform 0.1s ease;
+}
+
+.history-table tbody tr:hover {
+    transform: scale(1.01);
+}
+
+/* MEDIA QUERIES PARA ADAPTABILIDAD */
+@media (max-width: 768px) {
+    /* En móvil, la tabla es más compacta */
+    .history-table th:nth-child(5), /* Ocultar Establecimiento */
+    .history-table td:nth-child(5) {
+        display: none;
+    }
+
+    .history-table th:nth-child(3), /* Ocultar Transferencia */
+    .history-table td:nth-child(3) {
+        font-size: 0.8rem;
+    }
+}
+
+.Cuenta {
+    position: relative;
+    margin-top: 30px;
+
+
+} 
