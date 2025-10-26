@@ -1,42 +1,32 @@
 {
   "name": "react-typescript",
   "version": "1.0.0",
-  "description": "React and TypeScript example starter project",
-  "keywords": [
-    "typescript",
-    "react",
-    "starter"
-  ],
+  // ... (otros campos)
   "main": "src/index.tsx",
+  
+  // ⬅️ ¡CORRECCIÓN 1: AÑADIR HOMEPAGE!
+  "homepage": "https://genarinh0.github.io/MirrorsSavings", 
+  
   "dependencies": {
-    "@tailwindcss/vite": "^4.1.16",
-    "axios": "^1.12.2",
-    "loader-utils": "3.2.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "^5.0.1",
-    "styled-components": "^6.1.19",
-    "tailwindcss": "^4.1.16"
+    // ... (dependencias existentes)
   },
   "devDependencies": {
-    "@types/react": "18.2.38",
-    "@types/react-dom": "18.2.15",
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.6",
-    "tailwindcss": "^4.1.16",
-    "typescript": "4.4.4"
+    // ... (dependencias existentes)
+    // ⬅️ Necesitas gh-pages aquí si no lo tienes ya
+    "gh-pages": "^6.1.1" 
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    
+    // ⬅️ ¡AÑADIR SCRIPTS DE DESPLIEGUE!
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build" 
   },
-  "browserslist": [
-    ">0.2%",
-    "not dead",
-    "not ie <= 11",
-    "not op_mini all"
-  ],
-  "proxy": "http://localhost:3001"
+  // ... (resto del archivo)
+  
+  // ⬅️ Puedes eliminar el 'proxy' o dejarlo, pero debe ser ignorado.
+  "proxy": "http://localhost:3001" 
 }
