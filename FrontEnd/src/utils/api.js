@@ -2,9 +2,11 @@
 
 import axios from 'axios';
 
-// Usamos la ruta relativa que el proxy maneja (apunta a localhost:3001)
-const BACKEND_URL = '/api/savings';
-const TRANSACTION_URL = '/api/transactions';
+const BACKEND_BASE_URL = 'https://api-backend-mirrors.onrender.com';
+
+// ⬅️ Las rutas completas se construyen a partir de la base
+const BACKEND_URL = `${BACKEND_BASE_URL}/api/savings`;
+const TRANSACTION_URL = `${BACKEND_BASE_URL}/api/transactions`;
 
 // ID FIJO DEL CLIENTE ÚNICO (Debe coincidir con la inserción en MongoDB)
 const TEST_ACCOUNT_ID = 'TEST_HACKATHON_USER';
