@@ -1,16 +1,40 @@
 {
   "name": "react-typescript",
   "version": "1.0.0",
-
+  "description": "React and TypeScript example starter project",
+  "keywords": [
+    "typescript",
+    "react",
+    "starter"
+  ],
   "main": "src/index.tsx",
-
+  
   "homepage": "https://genarinh0.github.io/MirrorsSavings", 
   
   "dependencies": {
-
+    /* DEPENDENCIAS DE PRODUCCIÓN (REACT, AXIOS) */
+    "axios": "^1.6.8",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    
+    /* DEPENDENCIAS DE ESTILOS (Si las usaste, las mantenemos para no romper el CSS) */
+    "styled-components": "^6.1.19",
+    "tailwindcss": "^4.1.16",
+    
+    /* ⬅️ CORRECCIÓN CRÍTICA: TYPESCRIPT MOVIDO PARA COMPILACIÓN EN RENDER */
+    "typescript": "4.4.4", 
+    "@types/react": "18.2.38",
+    "@types/react-dom": "18.2.15",
+    "@types/node": "^20.12.7"
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1" 
+    /* HERRAMIENTAS DE DESPLIEGUE Y COMPILACIÓN */
+    "gh-pages": "^6.1.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "@tailwindcss/vite": "^4.1.16",
+    "loader-utils": "3.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -21,6 +45,11 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build" 
   },
-
-  "proxy": "http://localhost:3001" 
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "proxy": "http://localhost:3001"
 }
