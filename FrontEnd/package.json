@@ -1,18 +1,15 @@
 {
   "name": "react-typescript",
   "version": "1.0.0",
-  // ... (otros campos)
+
   "main": "src/index.tsx",
-  
-  // ⬅️ ¡CORRECCIÓN 1: AÑADIR HOMEPAGE!
+
   "homepage": "https://genarinh0.github.io/MirrorsSavings", 
   
   "dependencies": {
-    // ... (dependencias existentes)
+
   },
   "devDependencies": {
-    // ... (dependencias existentes)
-    // ⬅️ Necesitas gh-pages aquí si no lo tienes ya
     "gh-pages": "^6.1.1" 
   },
   "scripts": {
@@ -21,12 +18,9 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     
-    // ⬅️ ¡AÑADIR SCRIPTS DE DESPLIEGUE!
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build" 
   },
-  // ... (resto del archivo)
-  
-  // ⬅️ Puedes eliminar el 'proxy' o dejarlo, pero debe ser ignorado.
+
   "proxy": "http://localhost:3001" 
 }
